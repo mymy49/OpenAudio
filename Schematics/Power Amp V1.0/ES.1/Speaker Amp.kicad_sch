@@ -12570,7 +12570,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd651d68-d217-4950-9683-500359825fae")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 133.35 41.91 0)
 			(effects
 				(font
@@ -12798,7 +12798,7 @@
 		(instances
 			(project "Power Amp"
 				(path "/7c979da8-7e54-461e-8675-99eaf95aeefe/52e364c8-bbc1-4146-9b61-4f56ef4be0ff"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
